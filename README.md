@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Embedded Design<br><br>🌱 I’m currently learning Java, C, and Python
+🔭 I’m interested in working on Embedded Design<br><br>
 
 
 ## 🌐 Socials:
